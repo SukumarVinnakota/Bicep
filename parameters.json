@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+      "storageAccountName": {
+        "value": "relativitypoc"
+      },
+      "storageAccountSku": {
+        "value": "Standard_LRS"
+      },
+      "applicationInsightsName": {
+          "value": "relativitypoc"
+      },
+      "planName": {
+          "value": "relativitypoc"
+      },
+      "planOS": {
+          "value": "Windows"
+      },
+      "functionAppName": {
+          "value": "relativitypoc"
+      },
+      "functionAppRuntime": {
+          "value": "powershell"
+      },
+      "keyVaultName": {
+          "value": "relativitypoc"
+      },
+      "keyVaultSku": {
+          "value": "standard"
+      }
+    }
+  }
