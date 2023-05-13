@@ -3,28 +3,28 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "storageAccountName": {
-        "value": "relativitypoc"
+        "value": "relativepoc"
       },
       "storageAccountSku": {
         "value": "Standard_LRS"
       },
       "applicationInsightsName": {
-          "value": "relativitypoc"
+          "value": "relativepoc"
       },
       "planName": {
-          "value": "relativitypoc"
+          "value": "relativepoc"
       },
       "planOS": {
           "value": "Windows"
       },
       "functionAppName": {
-          "value": "relativitypoc"
+          "value": "relativepoc"
       },
       "functionAppRuntime": {
           "value": "powershell"
       },
       "keyVaultName": {
-          "value": "relativitypoc"
+          "value": "relativepoc"
       },
       "keyVaultSku": {
           "value": "standard"
